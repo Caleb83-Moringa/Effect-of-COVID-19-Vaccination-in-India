@@ -2,7 +2,7 @@
 #### Preparation and Analysis, 27/05/2021
 #### By Caleb Muinde , Kevin Kirotich , Brian Michira , Beatrice Kiplagat , Eileen Murgor , John Ruoro, and Farnadis Kanja
 ## Description
-This is a collaborative project that aims to find out the effectiveness of the vaccination campaign as the primary way of curbing the spread of COVID-19 spread in India.  Purpose of the project is to generate insights from the given data sets that can be used in coming up with useful recommendations.
+This is a collaborative project that aims to find out the effectiveness of the vaccination campaign as the primary way of curbing the spread of COVID-19 spread in India.  Purpose of the project is to generate insights from the given data sets that can be used in coming up with useful recommendations. Required data sets are in the zipped file.
 ## Setup/Installation Requirements
  - Collaboratory for the data preparation and analysis
  - Import Pandas , Numpy and Matplotlib libraries

@@ -4,9 +4,9 @@
 ## Description
 This is a collaborative project that aims to find out the effectiveness of the vaccination campaign as the primary way of curbing the spread of COVID-19 spread in India.  Purpose of the project is to generate insights from the given data sets that can be used in coming up with useful recommendations.
 ## Setup/Installation Requirements
- -Google Collaboratory for data preparation and analysis
- -Import Pandas , Numpy and Matplotlib libraries
- -Loading and previewing data sets
+ - Collaboratory for the data preparation and analysis
+ - Import Pandas , Numpy and Matplotlib libraries
+ - Loading and previewing data sets 
 ## Known Bugs
 There are no known bugs in the application
 ## Technologies Used

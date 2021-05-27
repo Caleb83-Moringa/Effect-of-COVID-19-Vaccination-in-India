@@ -14,7 +14,8 @@ Python 3.9.0
 ## Support and contact details
 In case you run into any issues or have querries ,ideas , or concerns, feel free to make a contribution to the code or contact me on Github:EileenMurgor
 MIT 
-Copyright (c)2021 Caleb Muinde , Kevin Kirotich , Brian Michira , Beatrice Kiplagat , Eileen Murgor , John Ruoro, and Farnadis Kanja
+Copyright (c)2021 
+
   
 
 
